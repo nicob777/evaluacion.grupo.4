@@ -1,0 +1,22 @@
+Nicolas BUstos: en github aprendi a gestionar versiones en un projecto y modificar dichas versiones,tambien aprendi los 3 estados de un proyecto
+(committed,modified y staged) y las 3 secciones de git(git directory, working directory y staging area).
+aprendi la instalacion de git, la confirmacion de mi identidad y el uso basico de git(crear proyectos, crear repositorios,
+comprobar estados, añadir el archivo en un repositorio, comprobar el repositorio, añadir combios y confirmar los cambios).
+luego aprendimos a aplicar lo que aprendiamos al "visual studio core"
+
+
+
+1. ¿Qué diferencia hay entre git clone y git pull?
+git clone: baja el repositorio por primera vez.
+git pull: actualiza el repositorio local con los últimos cambios.
+2. ¿Qué es un commit y para qué sirve?
+Un registro de cambios que guarda versiones del proyecto.
+3. ¿Por qué es importante usar un repositorio en la nube como GitHub en
+proyectos grupales?
+Permite compartir código, sincronizar, trabajar en paralelo y tener respaldo.
+4. ¿Qué problemas pueden surgir si varios compañeros editan el mismo
+archivo al mismo tiempo? ¿Cómo se resuelve?
+Genera conflictos.
+Solución: resolver manualmente el conflicto y hacer commit.
+5. ¿Qué aprendieron sobre el trabajo colaborativo en esta evaluación?
+Que con Git/GitHub se trabaja en equipo de forma ordenada, segura y comunicada.
