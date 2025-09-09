@@ -1,0 +1,5 @@
+en github aprendi a gestionar versiones en un projecto y modificar dichas versiones,tambien aprendi los 3 estados de un proyecto
+(committed,modified y staged) y las 3 secciones de git(git directory, working directory y staging area).
+aprendi la instalacion de git, la confirmacion de mi identidad y el uso basico de git(crear proyectos, crear repositorios,
+comprobar estados, añadir el archivo en un repositorio, comprobar el repositorio, añadir combios y confirmar los cambios).
+luego aprendimos a aplicar lo que aprendiamos al "visual studio core"git
