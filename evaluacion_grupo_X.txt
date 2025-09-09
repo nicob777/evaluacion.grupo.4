@@ -7,7 +7,7 @@ luego aprendimos a aplicar lo que aprendiamos al "visual studio core"
 
 
 1. ¿Qué diferencia hay entre git clone y git pull?
-git clone: baja el repositorio por primera vez.
+Soy Octavio: git clone: baja el repositorio por primera vez.
 git pull: actualiza el repositorio local con los últimos cambios.
 2. ¿Qué es un commit y para qué sirve?
 Un registro de cambios que guarda versiones del proyecto.
